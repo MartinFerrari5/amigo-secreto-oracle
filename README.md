@@ -1,4 +1,4 @@
-# EL Amigo Secreto
+# El Amigo Secreto
 
 ### Pasos a seguir:
 1. Clona el repositorio. Copia el siguiente codigo en la terminal
