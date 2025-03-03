@@ -11,12 +11,13 @@ const amigos = []
 
 // Funcion para agregar un amigo
 function agregarAmigo(){
-    result.innerHTML = ""
+    
     let amigo = input.value
     if(amigo === ""){
         alert("Por favor, ingrese un nombre valid")
         return
     }
+    result.innerHTML = ""
     amigos.push(amigo)
     
     listaAmigos.innerHTML += `<li>${amigo}</li>`
